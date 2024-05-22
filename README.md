@@ -27,3 +27,7 @@
 <h2 align="center">Admin Page</h2>
 <img src="images/articles/ad-min.png">
 <p>On the left, we can see the message if someone contact us, on the right, all the command with the id of the user and the total price.</p>
+
+<h2 align="center">User Management</h2>
+<img src="images/articles/les-zer.png">
+<p>User management, we can edit the names, the mail, and set if the user is an admin or not.</p>
