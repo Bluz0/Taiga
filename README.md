@@ -31,3 +31,9 @@
 <h2 align="center">User Management</h2>
 <img src="images/articles/les-zer.png">
 <p>User management, we can edit the names, the mail, and set if the user is an admin or not.</p>
+
+<h2 align="center">Product Management</h2>
+<img src="images/articles/articl.png">
+<p>Product Management, we can edit the price product, the title, the description...etc</p>
+
+<h3>Thanks to Ewilan, JDL, and Housto. This project can't be there without them, it's a team project, we were 4.</h3>
