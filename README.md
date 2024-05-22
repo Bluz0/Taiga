@@ -9,6 +9,9 @@
 <img src="images/articles/cat-page.png">
 <p>Here is an example of a category page showing smartphones. On its left, the function filters that allows to search in detail the desired product, by price and by category. You can change the category if you want directly in this page.</p>
 
+<h2 align="center">Search Bar</h2>
+<img src="images/articles/laptop-show.png">
+<p>If we type "laptop" on the search bar, we can see the differents laptop shown, with the button "Add to cart" in french</p>
 
 
 
