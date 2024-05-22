@@ -13,5 +13,8 @@
 <img src="images/laptop-show.png">
 <p>If we type "laptop" on the search bar, we can see the differents laptop shown, with the button "Add to cart" in french</p>
 
+<h2 align="center">Single page product</h2>
+<img src="images/articles/single-page.png">
+<p>Single page laptop, with id in the url to show the product you want</p>
 
 
