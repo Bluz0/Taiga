@@ -19,4 +19,4 @@
 
 <h2 align="center">Cart page</h2>
 <img src="images/articles/cart-page.png">
-<p>Cart page, you can change the quantity and the price increase or descrease, we can also pay and have your command number</p>
+<p>Cart page, you can change the quantity and the price increase or descrease, we can also delete the product if you don't want to or pay and have your command number</p>
