@@ -17,4 +17,6 @@
 <img src="images/articles/single-page.png">
 <p>Single page laptop, with id in the url to show the product you want</p>
 
-
+<h2 align="center">Cart page</h2>
+<img src="images/articles/cart-page.png">
+<p>Cart page, you can change the quantity and the price increase or descrease, we can also pay and have your command number</p>
