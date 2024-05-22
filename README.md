@@ -1,6 +1,7 @@
 <h1>Taiga E-commerce Website</h1>
 <p>Taiga is an E-commerce site focused on high-tech products. As a customer, you can view the products offered using the search bar or the category page on the home page.</p>
 
+<h1>User section</h1>
 <h2 align="center">Home Page</h2>
 <img src="images/articles/main-taiga.png">
 <p>You can search any products or go to the category section.</p>
@@ -20,3 +21,5 @@
 <h2 align="center">Cart page</h2>
 <img src="images/articles/cart-page.png">
 <p>Cart page, you can change the quantity and the price increase or descrease, we can also delete the product if you don't want to or pay and have your command number</p>
+
+<h1>Admin section</h1>
