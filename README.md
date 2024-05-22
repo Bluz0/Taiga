@@ -23,3 +23,7 @@
 <p>Cart page, you can change the quantity and the price increase or descrease, we can also delete the product if you don't want to or pay and have your command number</p>
 
 <h1>Admin section</h1>
+
+<h2 align="center">Admin Page</h2>
+<img src="ad-min.png">
+<p>On the left, we can see the message if someone contact us, on the right, all the command with the id of the user and the total price.</p>
