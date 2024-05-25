@@ -37,4 +37,3 @@
 <p>Product Management, we can edit the price product, the title, the description...etc</p>
 
 <h3>Thanks to <a href="https://github.com/Ewilanstr">@Ewilanstr</a></h3>
-<h3>JDL, and Housto. This project can't be there without them, it's a team project, we were 4.</h3>
