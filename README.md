@@ -36,4 +36,4 @@
 <img src="images/articles/articl.png">
 <p>Product Management, we can edit the price product, the title, the description...etc</p>
 
-<h3>Thanks to <a href="https://github.com/Ewilanstr">@Ewilanstr</a></h3>
+<h3>Thanks to <a href="https://github.com/Ewilanstr">@Ewilanstr</a> and <a href="https://github.com/Lucas12458">@Lucas12458</a></h3>
